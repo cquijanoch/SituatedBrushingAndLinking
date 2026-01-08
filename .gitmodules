@@ -1,0 +1,6 @@
+[submodule "SourceCode"]
+	path = SourceCode
+	url = https://github.com/cquijanoch/BrushingLinkingARVR
+[submodule "Analysis"]
+	path = Analysis
+	url = https://github.com/cquijanoch/AnalysisSitBrushingAndLinking
