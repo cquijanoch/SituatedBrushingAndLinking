@@ -32,7 +32,7 @@ Optionally, an apk file can be found in *Installer* folder, ready to be installe
 
 5. *Start Study* will start the study trials considering the handedness and participant ID (Note: the task order is determined by the specified participant ID and is defined in the *Assets/UserStudy/ParticipantInfo.csv* file).
 
-6. Its possible to pause the study to display the *admin menu* pressing the buttons *X, A and B at the same time*. To return to the study trial, just press *Start Study* button.
+6. Its possible to pause the study to display the *admin menu* pressing the buttons *X, A and B at the same time*. To return to the study trial, just press *Start Study* button again.
 
 7. Once the applications finishes a condition, it asks to remove the headsets (to answer questions), to continue press *Y*
  
@@ -48,7 +48,7 @@ This folder contais the statistical scripts used to analyze results.
 
 3. In the R terminal, `> source(main.R)`, which will ingest CSVs files (tasks, tracking and forms), compute (bootstrap) CIs, and export plots.
 
-4. All of the .png charts will appear in this directory.
+4. All of the .pdf charts will appear in this directory.
 
 ## Acknowledgements:
 
